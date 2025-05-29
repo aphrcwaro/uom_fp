@@ -1,0 +1,1350 @@
+pillule
+	case	clinic	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service - Pilules						
+non	86.7	100.0	100.0	100.0	94.1	95
+oui	13.3	0.0	0.0	0.0	5.9	6
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+pil_inf						
+0	60.0	22.2	100.0	93.5	72.3	73
+1	40.0	77.8	0.0	6.5	27.7	28
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Le client ne veut pas-Pilules						
+non	55.6	100.0	0.0	13.0	39.6	40
+oui	44.4	0.0	100.0	87.0	60.4	61
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Autres (précisez)-Pilules						
+non	95.6	77.8	100.0	91.3	92.1	93
+oui	4.4	22.2	0.0	8.7	7.9	8
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Number	45	9	1	46	101	
+
+Injectable
+	case	clinic	ps	Total	Number
+	%	%	%	%	
+Raisons de la non-disponibilité du service- Injectable					
+non	66.7	100.0	100.0	84.4	27
+oui	33.3	0.0	0.0	15.6	5
+Total	100.0	100.0	100.0	100.0	32
+
+inj_inf					
+0	53.3	22.2	75.0	50.0	16
+1	46.7	77.8	25.0	50.0	16
+Total	100.0	100.0	100.0	100.0	32
+
+Le client ne veut pas-Injectable					
+non	73.3	100.0	37.5	71.9	23
+oui	26.7	0.0	62.5	28.1	9
+Total	100.0	100.0	100.0	100.0	32
+
+Autres (précisez)-Injectable					
+non	93.3	77.8	75.0	84.4	27
+oui	6.7	22.2	25.0	15.6	5
+Total	100.0	100.0	100.0	100.0	32
+
+Number	15	9	8	32	
+
+Préservatif masculin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif masculin 							
+non	98.2	100.0	100.0	80.0	97.3	97.5	353
+oui	1.8	0.0	0.0	20.0	2.7	2.5	9
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+pm_inf							
+0	50.9	23.7	71.4	40.0	70.2	58.6	212
+1	49.1	76.3	28.6	60.0	29.8	41.4	150
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Le client ne veut pas-Préservatif masculin 							
+non	43.8	81.6	50.0	60.0	31.4	42.0	152
+oui	56.2	18.4	50.0	40.0	68.6	58.0	210
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Autres (précisez)-Préservatif masculin 							
+non	93.8	89.5	78.6	90.0	94.1	92.8	336
+oui	6.2	10.5	21.4	10.0	5.9	7.2	26
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Number	112	38	14	10	188	362	
+
+Préservatif féminin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif féminin							
+non	90.4	100.0	100.0	95.0	98.7	97.2	1,068
+oui	9.6	0.0	0.0	5.0	1.3	2.8	31
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+pf_in							
+0	52.4	23.3	74.4	60.0	69.8	64.7	711
+1	47.6	76.7	25.6	40.0	30.2	35.3	388
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Le client ne veut pas-Préservatif féminin							
+non	36.1	74.4	35.9	35.0	25.3	29.8	328
+oui	63.9	25.6	64.1	65.0	74.7	70.2	771
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Autres (précisez)-Préservatif féminin							
+non	97.1	90.7	87.2	100.0	97.8	97.1	1,067
+oui	2.9	9.3	12.8	0.0	2.2	2.9	32
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Number	208	43	39	20	789	1,099	
+
+Contraception d'urgence
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Contraception d'urgence							
+non	82.5	100.0	100.0	87.5	98.6	94.7	962
+oui	17.5	0.0	0.0	12.5	1.4	5.3	54
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+pcu_in							
+0	39.0	15.8	47.6	50.0	57.0	50.9	517
+1	61.0	84.2	52.4	50.0	43.0	49.1	499
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Le client ne veut pas-Contraception d'urgence							
+non	56.9	92.1	52.4	75.0	43.4	48.9	497
+oui	43.1	7.9	47.6	25.0	56.6	51.1	519
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Autres (précisez)-Contraception d'urgence							
+non	96.3	89.5	95.2	87.5	95.3	95.3	968
+oui	3.7	10.5	4.8	12.5	4.7	4.7	48
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Number	246	38	21	8	703	1,016	
+
+DIU
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-DIU						
+non	90.9	100.0	100.0	63.9	65.0	201
+oui	9.1	0.0	0.0	36.1	35.0	108
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+dui_in						
+0	18.2	0.0	100.0	70.3	68.3	211
+1	81.8	100.0	0.0	29.7	31.7	98
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Le client ne veut pas-DIU						
+non	90.9	100.0	0.0	54.4	55.7	172
+oui	9.1	0.0	100.0	45.6	44.3	137
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Autres (précisez)-DIU						
+non	100.0	100.0	100.0	94.9	95.1	294
+oui	0.0	0.0	0.0	5.1	4.9	15
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Number	11	1	1	296	309	
+
+Implant
+	clinic	ps	Total	Number
+	%	%	%	
+Raisons de la non-disponibilité du service-Implant				
+non	100.0	55.8	67.2	39
+oui	0.0	44.2	32.8	19
+Total	100.0	100.0	100.0	58
+
+implant_in				
+0	20.0	76.7	62.1	36
+1	80.0	23.3	37.9	22
+Total	100.0	100.0	100.0	58
+
+Le client ne veut pas-Implant				
+non	93.3	69.8	75.9	44
+oui	6.7	30.2	24.1	14
+Total	100.0	100.0	100.0	58
+
+Autres (précisez)-Implant				
+non	86.7	93.0	91.4	53
+oui	13.3	7.0	8.6	5
+Total	100.0	100.0	100.0	58
+
+Number	15	43	58	
+
+Stérilisation féminine (Ligature des trompes)
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation féminine (Ligature des 						
+non	81.2	47.0	80.0	33.5	35.5	582
+oui	18.8	53.0	20.0	66.5	64.5	1,056
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+sf_in						
+0	31.2	28.0	80.0	38.6	38.1	624
+1	68.8	72.0	20.0	61.4	61.9	1,014
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Le client ne veut pas-Stérilisation féminine (Ligature des trompes) 						
+non	81.2	92.0	50.0	82.9	83.2	1,363
+oui	18.8	8.0	50.0	17.1	16.8	275
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Autres (précisez)-Stérilisation féminine (Ligature des trompes) 						
+non	81.2	96.0	90.0	95.8	95.5	1,564
+oui	18.8	4.0	10.0	4.2	4.5	74
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Number	32	100	10	1,496	1,638	
+
+Stérilisation Masculine
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation masculine/ Vasectomie						
+non	72.5	49.6	66.7	33.7	36.5	631
+oui	27.5	50.4	33.3	66.3	63.5	1,098
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+sm_in						
+0	37.3	28.7	66.7	38.4	38.2	661
+1	62.7	71.3	33.3	61.6	61.8	1,068
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Le client ne veut pas-Stérilisation masculine/ Vasectomie						
+non	56.9	90.4	60.0	82.6	82.0	1,418
+oui	43.1	9.6	40.0	17.4	18.0	311
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Autres (précisez)-Stérilisation masculine/ Vasectomie						
+non	90.2	96.5	80.0	96.3	95.8	1,657
+oui	9.8	3.5	20.0	3.7	4.2	72
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Number	51	115	30	1,533	1,729	
+
+pillule
+	case	clinic	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service - Pilules						
+non	86.7	100.0	100.0	100.0	94.1	95
+oui	13.3	0.0	0.0	0.0	5.9	6
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+pil_inf						
+0	60.0	22.2	100.0	93.5	72.3	73
+1	40.0	77.8	0.0	6.5	27.7	28
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Le client ne veut pas-Pilules						
+non	55.6	100.0	0.0	13.0	39.6	40
+oui	44.4	0.0	100.0	87.0	60.4	61
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Autres (précisez)-Pilules						
+non	95.6	77.8	100.0	91.3	92.1	93
+oui	4.4	22.2	0.0	8.7	7.9	8
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Number	45	9	1	46	101	
+
+Injectable
+	case	clinic	ps	Total	Number
+	%	%	%	%	
+Raisons de la non-disponibilité du service- Injectable					
+non	66.7	100.0	100.0	84.4	27
+oui	33.3	0.0	0.0	15.6	5
+Total	100.0	100.0	100.0	100.0	32
+
+inj_inf					
+0	53.3	22.2	75.0	50.0	16
+1	46.7	77.8	25.0	50.0	16
+Total	100.0	100.0	100.0	100.0	32
+
+Le client ne veut pas-Injectable					
+non	73.3	100.0	37.5	71.9	23
+oui	26.7	0.0	62.5	28.1	9
+Total	100.0	100.0	100.0	100.0	32
+
+Autres (précisez)-Injectable					
+non	93.3	77.8	75.0	84.4	27
+oui	6.7	22.2	25.0	15.6	5
+Total	100.0	100.0	100.0	100.0	32
+
+Number	15	9	8	32	
+
+Préservatif masculin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif masculin 							
+non	98.2	100.0	100.0	80.0	97.3	97.5	353
+oui	1.8	0.0	0.0	20.0	2.7	2.5	9
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+pm_inf							
+0	50.9	23.7	71.4	40.0	70.2	58.6	212
+1	49.1	76.3	28.6	60.0	29.8	41.4	150
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Le client ne veut pas-Préservatif masculin 							
+non	43.8	81.6	50.0	60.0	31.4	42.0	152
+oui	56.2	18.4	50.0	40.0	68.6	58.0	210
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Autres (précisez)-Préservatif masculin 							
+non	93.8	89.5	78.6	90.0	94.1	92.8	336
+oui	6.2	10.5	21.4	10.0	5.9	7.2	26
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Number	112	38	14	10	188	362	
+
+Préservatif féminin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif féminin							
+non	90.4	100.0	100.0	95.0	98.7	97.2	1,068
+oui	9.6	0.0	0.0	5.0	1.3	2.8	31
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+pf_in							
+0	52.4	23.3	74.4	60.0	69.8	64.7	711
+1	47.6	76.7	25.6	40.0	30.2	35.3	388
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Le client ne veut pas-Préservatif féminin							
+non	36.1	74.4	35.9	35.0	25.3	29.8	328
+oui	63.9	25.6	64.1	65.0	74.7	70.2	771
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Autres (précisez)-Préservatif féminin							
+non	97.1	90.7	87.2	100.0	97.8	97.1	1,067
+oui	2.9	9.3	12.8	0.0	2.2	2.9	32
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Number	208	43	39	20	789	1,099	
+
+Contraception d'urgence
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Contraception d'urgence							
+non	82.5	100.0	100.0	87.5	98.6	94.7	962
+oui	17.5	0.0	0.0	12.5	1.4	5.3	54
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+pcu_in							
+0	39.0	15.8	47.6	50.0	57.0	50.9	517
+1	61.0	84.2	52.4	50.0	43.0	49.1	499
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Le client ne veut pas-Contraception d'urgence							
+non	56.9	92.1	52.4	75.0	43.4	48.9	497
+oui	43.1	7.9	47.6	25.0	56.6	51.1	519
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Autres (précisez)-Contraception d'urgence							
+non	96.3	89.5	95.2	87.5	95.3	95.3	968
+oui	3.7	10.5	4.8	12.5	4.7	4.7	48
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Number	246	38	21	8	703	1,016	
+
+DIU
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-DIU						
+non	90.9	100.0	100.0	63.9	65.0	201
+oui	9.1	0.0	0.0	36.1	35.0	108
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+dui_in						
+0	18.2	0.0	100.0	70.3	68.3	211
+1	81.8	100.0	0.0	29.7	31.7	98
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Le client ne veut pas-DIU						
+non	90.9	100.0	0.0	54.4	55.7	172
+oui	9.1	0.0	100.0	45.6	44.3	137
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Autres (précisez)-DIU						
+non	100.0	100.0	100.0	94.9	95.1	294
+oui	0.0	0.0	0.0	5.1	4.9	15
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Number	11	1	1	296	309	
+
+Implant
+	clinic	ps	Total	Number
+	%	%	%	
+Raisons de la non-disponibilité du service-Implant				
+non	100.0	55.8	67.2	39
+oui	0.0	44.2	32.8	19
+Total	100.0	100.0	100.0	58
+
+implant_in				
+0	20.0	76.7	62.1	36
+1	80.0	23.3	37.9	22
+Total	100.0	100.0	100.0	58
+
+Le client ne veut pas-Implant				
+non	93.3	69.8	75.9	44
+oui	6.7	30.2	24.1	14
+Total	100.0	100.0	100.0	58
+
+Autres (précisez)-Implant				
+non	86.7	93.0	91.4	53
+oui	13.3	7.0	8.6	5
+Total	100.0	100.0	100.0	58
+
+Number	15	43	58	
+
+Stérilisation féminine (Ligature des trompes)
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation féminine (Ligature des 						
+non	81.2	47.0	80.0	33.5	35.5	582
+oui	18.8	53.0	20.0	66.5	64.5	1,056
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+sf_in						
+0	31.2	28.0	80.0	38.6	38.1	624
+1	68.8	72.0	20.0	61.4	61.9	1,014
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Le client ne veut pas-Stérilisation féminine (Ligature des trompes) 						
+non	81.2	92.0	50.0	82.9	83.2	1,363
+oui	18.8	8.0	50.0	17.1	16.8	275
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Autres (précisez)-Stérilisation féminine (Ligature des trompes) 						
+non	81.2	96.0	90.0	95.8	95.5	1,564
+oui	18.8	4.0	10.0	4.2	4.5	74
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Number	32	100	10	1,496	1,638	
+
+Stérilisation Masculine
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation masculine/ Vasectomie						
+non	72.5	49.6	66.7	33.7	36.5	631
+oui	27.5	50.4	33.3	66.3	63.5	1,098
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+sm_in						
+0	37.3	28.7	66.7	38.4	38.2	661
+1	62.7	71.3	33.3	61.6	61.8	1,068
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Le client ne veut pas-Stérilisation masculine/ Vasectomie						
+non	56.9	90.4	60.0	82.6	82.0	1,418
+oui	43.1	9.6	40.0	17.4	18.0	311
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Autres (précisez)-Stérilisation masculine/ Vasectomie						
+non	90.2	96.5	80.0	96.3	95.8	1,657
+oui	9.8	3.5	20.0	3.7	4.2	72
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Number	51	115	30	1,533	1,729	
+
+pillule
+	case	clinic	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service - Pilules						
+non	89.6	100.0	100.0	100.0	96.0	240
+oui	10.4	0.0	0.0	0.0	4.0	10
+Total	100.0	100.0	100.0	100.0	100.0	250
+
+pil_inf						
+0	55.2	33.3	100.0	96.7	73.2	183
+1	44.8	66.7	0.0	3.3	26.8	67
+Total	100.0	100.0	100.0	100.0	100.0	250
+
+Le client ne veut pas-Pilules						
+non	54.2	100.0	0.0	6.7	36.0	90
+oui	45.8	0.0	100.0	93.3	64.0	160
+Total	100.0	100.0	100.0	100.0	100.0	250
+
+Autres (précisez)-Pilules						
+non	96.9	66.7	100.0	94.2	92.0	230
+oui	3.1	33.3	0.0	5.8	8.0	20
+Total	100.0	100.0	100.0	100.0	100.0	250
+
+Number	96	30	4	120	250	
+
+Injectable
+	case	clinic	ps	Total	Number
+	%	%	%	%	
+Raisons de la non-disponibilité du service- Injectable					
+non	67.6	100.0	100.0	86.7	72
+oui	32.4	0.0	0.0	13.3	11
+Total	100.0	100.0	100.0	100.0	83
+
+inj_inf					
+0	50.0	11.1	68.2	42.2	35
+1	50.0	88.9	31.8	57.8	48
+Total	100.0	100.0	100.0	100.0	83
+
+Le client ne veut pas-Injectable					
+non	70.6	100.0	36.4	71.1	59
+oui	29.4	0.0	63.6	28.9	24
+Total	100.0	100.0	100.0	100.0	83
+
+Autres (précisez)-Injectable					
+non	97.1	88.9	81.8	90.4	75
+oui	2.9	11.1	18.2	9.6	8
+Total	100.0	100.0	100.0	100.0	83
+
+Number	34	27	22	83	
+
+Préservatif masculin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif masculin 							
+non	97.5	100.0	100.0	80.6	93.8	94.8	1,037
+oui	2.5	0.0	0.0	19.4	6.2	5.2	57
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,094
+
+pm_inf							
+0	52.7	21.7	74.1	48.6	70.9	60.1	658
+1	47.3	78.3	25.9	51.4	29.1	39.9	436
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,094
+
+Le client ne veut pas-Préservatif masculin 							
+non	42.4	81.7	53.4	47.2	30.4	41.0	449
+oui	57.6	18.3	46.6	52.8	69.6	59.0	645
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,094
+
+Autres (précisez)-Préservatif masculin 							
+non	93.8	91.7	72.4	94.4	94.3	92.8	1,015
+oui	6.2	8.3	27.6	5.6	5.7	7.2	79
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,094
+
+Number	243	120	58	72	601	1,094	
+
+Préservatif féminin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif féminin							
+non	90.8	100.0	100.0	95.6	98.4	97.4	3,451
+oui	9.2	0.0	0.0	4.4	1.6	2.6	91
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,542
+
+pf_in							
+0	53.2	19.6	73.3	63.9	69.7	65.5	2,320
+1	46.8	80.4	26.7	36.1	30.3	34.5	1,222
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,542
+
+Le client ne veut pas-Préservatif féminin							
+non	36.5	77.6	37.8	31.6	24.4	29.1	1,030
+oui	63.5	22.4	62.2	68.4	75.6	70.9	2,512
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,542
+
+Autres (précisez)-Préservatif féminin							
+non	97.1	93.0	86.6	100.0	97.7	97.0	3,436
+oui	2.9	7.0	13.4	0.0	2.3	3.0	106
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,542
+
+Number	447	143	172	158	2,622	3,542	
+
+Contraception d'urgence
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Contraception d'urgence							
+non	82.6	100.0	100.0	88.7	98.6	95.8	2,984
+oui	17.4	0.0	0.0	11.3	1.4	4.2	132
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,116
+
+pcu_in							
+0	38.0	14.6	44.6	41.9	57.6	51.8	1,614
+1	62.0	85.4	55.4	58.1	42.4	48.2	1,502
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,116
+
+Le client ne veut pas-Contraception d'urgence							
+non	56.7	94.6	55.4	80.6	42.4	48.1	1,500
+oui	43.3	5.4	44.6	19.4	57.6	51.9	1,616
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,116
+
+Autres (précisez)-Contraception d'urgence							
+non	96.8	87.7	95.2	88.7	95.5	95.3	2,968
+oui	3.2	12.3	4.8	11.3	4.5	4.7	148
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,116
+
+Number	529	130	83	62	2,312	3,116	
+
+DIU
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-DIU						
+non	97.1	100.0	100.0	64.9	66.5	556
+oui	2.9	0.0	0.0	35.1	33.5	280
+Total	100.0	100.0	100.0	100.0	100.0	836
+
+dui_in						
+0	5.9	0.0	100.0	68.6	65.9	551
+1	94.1	100.0	0.0	31.4	34.1	285
+Total	100.0	100.0	100.0	100.0	100.0	836
+
+Le client ne veut pas-DIU						
+non	97.1	100.0	0.0	55.3	56.9	476
+oui	2.9	0.0	100.0	44.7	43.1	360
+Total	100.0	100.0	100.0	100.0	100.0	836
+
+Autres (précisez)-DIU						
+non	100.0	100.0	100.0	94.3	94.6	791
+oui	0.0	0.0	0.0	5.7	5.4	45
+Total	100.0	100.0	100.0	100.0	100.0	836
+
+Number	34	4	4	794	836	
+
+Implant
+	clinic	ps	Total	Number
+	%	%	%	
+Raisons de la non-disponibilité du service-Implant				
+non	100.0	61.8	74.0	97
+oui	0.0	38.2	26.0	34
+Total	100.0	100.0	100.0	131
+
+implant_in				
+0	9.5	79.8	57.3	75
+1	90.5	20.2	42.7	56
+Total	100.0	100.0	100.0	131
+
+Le client ne veut pas-Implant				
+non	97.6	59.6	71.8	94
+oui	2.4	40.4	28.2	37
+Total	100.0	100.0	100.0	131
+
+Autres (précisez)-Implant				
+non	92.9	94.4	93.9	123
+oui	7.1	5.6	6.1	8
+Total	100.0	100.0	100.0	131
+
+Number	42	89	131	
+
+Stérilisation féminine (Ligature des trompes)
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation féminine (Ligature des 						
+non	90.2	47.7	81.3	29.1	32.3	1,922
+oui	9.8	52.3	18.7	70.9	67.7	4,029
+Total	100.0	100.0	100.0	100.0	100.0	5,951
+
+sf_in						
+0	33.9	28.3	90.1	34.5	34.9	2,076
+1	66.1	71.7	9.9	65.5	65.1	3,875
+Total	100.0	100.0	100.0	100.0	100.0	5,951
+
+Le client ne veut pas-Stérilisation féminine (Ligature des trompes) 						
+non	77.7	91.2	35.2	83.0	82.7	4,923
+oui	22.3	8.8	64.8	17.0	17.3	1,028
+Total	100.0	100.0	100.0	100.0	100.0	5,951
+
+Autres (précisez)-Stérilisation féminine (Ligature des trompes) 						
+non	78.6	94.3	93.4	96.0	95.5	5,683
+oui	21.4	5.7	6.6	4.0	4.5	268
+Total	100.0	100.0	100.0	100.0	100.0	5,951
+
+Number	112	407	91	5,341	5,951	
+
+Stérilisation Masculine
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation masculine/ Vasectomie						
+non	81.2	51.1	65.5	29.9	34.4	2,222
+oui	18.8	48.9	34.5	70.1	65.6	4,236
+Total	100.0	100.0	100.0	100.0	100.0	6,458
+
+sm_in						
+0	37.1	27.6	70.3	33.9	34.9	2,253
+1	62.9	72.4	29.7	66.1	65.1	4,205
+Total	100.0	100.0	100.0	100.0	100.0	6,458
+
+Le client ne veut pas-Stérilisation masculine/ Vasectomie						
+non	59.7	90.5	53.0	82.4	81.2	5,244
+oui	40.3	9.5	47.0	17.6	18.8	1,214
+Total	100.0	100.0	100.0	100.0	100.0	6,458
+
+Autres (précisez)-Stérilisation masculine/ Vasectomie						
+non	88.2	95.3	79.5	96.5	95.5	6,166
+oui	11.8	4.7	20.5	3.5	4.5	292
+Total	100.0	100.0	100.0	100.0	100.0	6,458
+
+Number	186	493	249	5,530	6,458	
+
+pillule
+	case	clinic	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service - Pilules						
+non	89.6	100.0	100.0	100.0	96.0	240
+oui	10.4	0.0	0.0	0.0	4.0	10
+Total	100.0	100.0	100.0	100.0	100.0	250
+
+pil_inf						
+0	55.2	33.3	100.0	96.7	73.2	183
+1	44.8	66.7	0.0	3.3	26.8	67
+Total	100.0	100.0	100.0	100.0	100.0	250
+
+Le client ne veut pas-Pilules						
+non	54.2	100.0	0.0	6.7	36.0	90
+oui	45.8	0.0	100.0	93.3	64.0	160
+Total	100.0	100.0	100.0	100.0	100.0	250
+
+Autres (précisez)-Pilules						
+non	96.9	66.7	100.0	94.2	92.0	230
+oui	3.1	33.3	0.0	5.8	8.0	20
+Total	100.0	100.0	100.0	100.0	100.0	250
+
+Number	96	30	4	120	250	
+
+Injectable
+	case	clinic	ps	Total	Number
+	%	%	%	%	
+Raisons de la non-disponibilité du service- Injectable					
+non	67.6	100.0	100.0	86.7	72
+oui	32.4	0.0	0.0	13.3	11
+Total	100.0	100.0	100.0	100.0	83
+
+inj_inf					
+0	50.0	11.1	68.2	42.2	35
+1	50.0	88.9	31.8	57.8	48
+Total	100.0	100.0	100.0	100.0	83
+
+Le client ne veut pas-Injectable					
+non	70.6	100.0	36.4	71.1	59
+oui	29.4	0.0	63.6	28.9	24
+Total	100.0	100.0	100.0	100.0	83
+
+Autres (précisez)-Injectable					
+non	97.1	88.9	81.8	90.4	75
+oui	2.9	11.1	18.2	9.6	8
+Total	100.0	100.0	100.0	100.0	83
+
+Number	34	27	22	83	
+
+Préservatif masculin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif masculin 							
+non	97.5	100.0	100.0	80.6	93.8	94.8	1,037
+oui	2.5	0.0	0.0	19.4	6.2	5.2	57
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,094
+
+pm_inf							
+0	52.7	21.7	74.1	48.6	70.9	60.1	658
+1	47.3	78.3	25.9	51.4	29.1	39.9	436
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,094
+
+Le client ne veut pas-Préservatif masculin 							
+non	42.4	81.7	53.4	47.2	30.4	41.0	449
+oui	57.6	18.3	46.6	52.8	69.6	59.0	645
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,094
+
+Autres (précisez)-Préservatif masculin 							
+non	93.8	91.7	72.4	94.4	94.3	92.8	1,015
+oui	6.2	8.3	27.6	5.6	5.7	7.2	79
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,094
+
+Number	243	120	58	72	601	1,094	
+
+Préservatif féminin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif féminin							
+non	90.8	100.0	100.0	95.6	98.4	97.4	3,451
+oui	9.2	0.0	0.0	4.4	1.6	2.6	91
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,542
+
+pf_in							
+0	53.2	19.6	73.3	63.9	69.7	65.5	2,320
+1	46.8	80.4	26.7	36.1	30.3	34.5	1,222
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,542
+
+Le client ne veut pas-Préservatif féminin							
+non	36.5	77.6	37.8	31.6	24.4	29.1	1,030
+oui	63.5	22.4	62.2	68.4	75.6	70.9	2,512
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,542
+
+Autres (précisez)-Préservatif féminin							
+non	97.1	93.0	86.6	100.0	97.7	97.0	3,436
+oui	2.9	7.0	13.4	0.0	2.3	3.0	106
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,542
+
+Number	447	143	172	158	2,622	3,542	
+
+Contraception d'urgence
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Contraception d'urgence							
+non	82.6	100.0	100.0	88.7	98.6	95.8	2,984
+oui	17.4	0.0	0.0	11.3	1.4	4.2	132
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,116
+
+pcu_in							
+0	38.0	14.6	44.6	41.9	57.6	51.8	1,614
+1	62.0	85.4	55.4	58.1	42.4	48.2	1,502
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,116
+
+Le client ne veut pas-Contraception d'urgence							
+non	56.7	94.6	55.4	80.6	42.4	48.1	1,500
+oui	43.3	5.4	44.6	19.4	57.6	51.9	1,616
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,116
+
+Autres (précisez)-Contraception d'urgence							
+non	96.8	87.7	95.2	88.7	95.5	95.3	2,968
+oui	3.2	12.3	4.8	11.3	4.5	4.7	148
+Total	100.0	100.0	100.0	100.0	100.0	100.0	3,116
+
+Number	529	130	83	62	2,312	3,116	
+
+DIU
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-DIU						
+non	97.1	100.0	100.0	64.9	66.5	556
+oui	2.9	0.0	0.0	35.1	33.5	280
+Total	100.0	100.0	100.0	100.0	100.0	836
+
+dui_in						
+0	5.9	0.0	100.0	68.6	65.9	551
+1	94.1	100.0	0.0	31.4	34.1	285
+Total	100.0	100.0	100.0	100.0	100.0	836
+
+Le client ne veut pas-DIU						
+non	97.1	100.0	0.0	55.3	56.9	476
+oui	2.9	0.0	100.0	44.7	43.1	360
+Total	100.0	100.0	100.0	100.0	100.0	836
+
+Autres (précisez)-DIU						
+non	100.0	100.0	100.0	94.3	94.6	791
+oui	0.0	0.0	0.0	5.7	5.4	45
+Total	100.0	100.0	100.0	100.0	100.0	836
+
+Number	34	4	4	794	836	
+
+Implant
+	clinic	ps	Total	Number
+	%	%	%	
+Raisons de la non-disponibilité du service-Implant				
+non	100.0	61.8	74.0	97
+oui	0.0	38.2	26.0	34
+Total	100.0	100.0	100.0	131
+
+implant_in				
+0	9.5	79.8	57.3	75
+1	90.5	20.2	42.7	56
+Total	100.0	100.0	100.0	131
+
+Le client ne veut pas-Implant				
+non	97.6	59.6	71.8	94
+oui	2.4	40.4	28.2	37
+Total	100.0	100.0	100.0	131
+
+Autres (précisez)-Implant				
+non	92.9	94.4	93.9	123
+oui	7.1	5.6	6.1	8
+Total	100.0	100.0	100.0	131
+
+Number	42	89	131	
+
+Stérilisation féminine (Ligature des trompes)
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation féminine (Ligature des 						
+non	90.2	47.7	81.3	29.1	32.3	1,922
+oui	9.8	52.3	18.7	70.9	67.7	4,029
+Total	100.0	100.0	100.0	100.0	100.0	5,951
+
+sf_in						
+0	33.9	28.3	90.1	34.5	34.9	2,076
+1	66.1	71.7	9.9	65.5	65.1	3,875
+Total	100.0	100.0	100.0	100.0	100.0	5,951
+
+Le client ne veut pas-Stérilisation féminine (Ligature des trompes) 						
+non	77.7	91.2	35.2	83.0	82.7	4,923
+oui	22.3	8.8	64.8	17.0	17.3	1,028
+Total	100.0	100.0	100.0	100.0	100.0	5,951
+
+Autres (précisez)-Stérilisation féminine (Ligature des trompes) 						
+non	78.6	94.3	93.4	96.0	95.5	5,683
+oui	21.4	5.7	6.6	4.0	4.5	268
+Total	100.0	100.0	100.0	100.0	100.0	5,951
+
+Number	112	407	91	5,341	5,951	
+
+Stérilisation Masculine
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation masculine/ Vasectomie						
+non	81.2	51.1	65.5	29.9	34.4	2,222
+oui	18.8	48.9	34.5	70.1	65.6	4,236
+Total	100.0	100.0	100.0	100.0	100.0	6,458
+
+sm_in						
+0	37.1	27.6	70.3	33.9	34.9	2,253
+1	62.9	72.4	29.7	66.1	65.1	4,205
+Total	100.0	100.0	100.0	100.0	100.0	6,458
+
+Le client ne veut pas-Stérilisation masculine/ Vasectomie						
+non	59.7	90.5	53.0	82.4	81.2	5,244
+oui	40.3	9.5	47.0	17.6	18.8	1,214
+Total	100.0	100.0	100.0	100.0	100.0	6,458
+
+Autres (précisez)-Stérilisation masculine/ Vasectomie						
+non	88.2	95.3	79.5	96.5	95.5	6,166
+oui	11.8	4.7	20.5	3.5	4.5	292
+Total	100.0	100.0	100.0	100.0	100.0	6,458
+
+Number	186	493	249	5,530	6,458	
+
+pillule
+	case	clinic	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service - Pilules						
+non	86.7	100.0	100.0	100.0	94.1	95
+oui	13.3	0.0	0.0	0.0	5.9	6
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+pil_inf						
+0	60.0	22.2	100.0	93.5	72.3	73
+1	40.0	77.8	0.0	6.5	27.7	28
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Le client ne veut pas-Pilules						
+non	55.6	100.0	0.0	13.0	39.6	40
+oui	44.4	0.0	100.0	87.0	60.4	61
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Autres (précisez)-Pilules						
+non	95.6	77.8	100.0	91.3	92.1	93
+oui	4.4	22.2	0.0	8.7	7.9	8
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Number	45	9	1	46	101	
+
+Injectable
+	case	clinic	ps	Total	Number
+	%	%	%	%	
+Raisons de la non-disponibilité du service- Injectable					
+non	66.7	100.0	100.0	84.4	27
+oui	33.3	0.0	0.0	15.6	5
+Total	100.0	100.0	100.0	100.0	32
+
+inj_inf					
+0	53.3	22.2	75.0	50.0	16
+1	46.7	77.8	25.0	50.0	16
+Total	100.0	100.0	100.0	100.0	32
+
+Le client ne veut pas-Injectable					
+non	73.3	100.0	37.5	71.9	23
+oui	26.7	0.0	62.5	28.1	9
+Total	100.0	100.0	100.0	100.0	32
+
+Autres (précisez)-Injectable					
+non	93.3	77.8	75.0	84.4	27
+oui	6.7	22.2	25.0	15.6	5
+Total	100.0	100.0	100.0	100.0	32
+
+Number	15	9	8	32	
+
+Préservatif masculin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif masculin 							
+non	98.2	100.0	100.0	80.0	97.3	97.5	353
+oui	1.8	0.0	0.0	20.0	2.7	2.5	9
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+pm_inf							
+0	50.9	23.7	71.4	40.0	70.2	58.6	212
+1	49.1	76.3	28.6	60.0	29.8	41.4	150
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Le client ne veut pas-Préservatif masculin 							
+non	43.8	81.6	50.0	60.0	31.4	42.0	152
+oui	56.2	18.4	50.0	40.0	68.6	58.0	210
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Autres (précisez)-Préservatif masculin 							
+non	93.8	89.5	78.6	90.0	94.1	92.8	336
+oui	6.2	10.5	21.4	10.0	5.9	7.2	26
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Number	112	38	14	10	188	362	
+
+Préservatif féminin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif féminin							
+non	90.4	100.0	100.0	95.0	98.7	97.2	1,068
+oui	9.6	0.0	0.0	5.0	1.3	2.8	31
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+pf_in							
+0	52.4	23.3	74.4	60.0	69.8	64.7	711
+1	47.6	76.7	25.6	40.0	30.2	35.3	388
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Le client ne veut pas-Préservatif féminin							
+non	36.1	74.4	35.9	35.0	25.3	29.8	328
+oui	63.9	25.6	64.1	65.0	74.7	70.2	771
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Autres (précisez)-Préservatif féminin							
+non	97.1	90.7	87.2	100.0	97.8	97.1	1,067
+oui	2.9	9.3	12.8	0.0	2.2	2.9	32
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Number	208	43	39	20	789	1,099	
+
+Contraception d'urgence
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Contraception d'urgence							
+non	82.5	100.0	100.0	87.5	98.6	94.7	962
+oui	17.5	0.0	0.0	12.5	1.4	5.3	54
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+pcu_in							
+0	39.0	15.8	47.6	50.0	57.0	50.9	517
+1	61.0	84.2	52.4	50.0	43.0	49.1	499
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Le client ne veut pas-Contraception d'urgence							
+non	56.9	92.1	52.4	75.0	43.4	48.9	497
+oui	43.1	7.9	47.6	25.0	56.6	51.1	519
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Autres (précisez)-Contraception d'urgence							
+non	96.3	89.5	95.2	87.5	95.3	95.3	968
+oui	3.7	10.5	4.8	12.5	4.7	4.7	48
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Number	246	38	21	8	703	1,016	
+
+DIU
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-DIU						
+non	90.9	100.0	100.0	63.9	65.0	201
+oui	9.1	0.0	0.0	36.1	35.0	108
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+dui_in						
+0	18.2	0.0	100.0	70.3	68.3	211
+1	81.8	100.0	0.0	29.7	31.7	98
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Le client ne veut pas-DIU						
+non	90.9	100.0	0.0	54.4	55.7	172
+oui	9.1	0.0	100.0	45.6	44.3	137
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Autres (précisez)-DIU						
+non	100.0	100.0	100.0	94.9	95.1	294
+oui	0.0	0.0	0.0	5.1	4.9	15
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Number	11	1	1	296	309	
+
+Implant
+	clinic	ps	Total	Number
+	%	%	%	
+Raisons de la non-disponibilité du service-Implant				
+non	100.0	55.8	67.2	39
+oui	0.0	44.2	32.8	19
+Total	100.0	100.0	100.0	58
+
+implant_in				
+0	20.0	76.7	62.1	36
+1	80.0	23.3	37.9	22
+Total	100.0	100.0	100.0	58
+
+Le client ne veut pas-Implant				
+non	93.3	69.8	75.9	44
+oui	6.7	30.2	24.1	14
+Total	100.0	100.0	100.0	58
+
+Autres (précisez)-Implant				
+non	86.7	93.0	91.4	53
+oui	13.3	7.0	8.6	5
+Total	100.0	100.0	100.0	58
+
+Number	15	43	58	
+
+Stérilisation féminine (Ligature des trompes)
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation féminine (Ligature des 						
+non	81.2	47.0	80.0	33.5	35.5	582
+oui	18.8	53.0	20.0	66.5	64.5	1,056
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+sf_in						
+0	31.2	28.0	80.0	38.6	38.1	624
+1	68.8	72.0	20.0	61.4	61.9	1,014
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Le client ne veut pas-Stérilisation féminine (Ligature des trompes) 						
+non	81.2	92.0	50.0	82.9	83.2	1,363
+oui	18.8	8.0	50.0	17.1	16.8	275
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Autres (précisez)-Stérilisation féminine (Ligature des trompes) 						
+non	81.2	96.0	90.0	95.8	95.5	1,564
+oui	18.8	4.0	10.0	4.2	4.5	74
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Number	32	100	10	1,496	1,638	
+
+Stérilisation Masculine
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation masculine/ Vasectomie						
+non	72.5	49.6	66.7	33.7	36.5	631
+oui	27.5	50.4	33.3	66.3	63.5	1,098
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+sm_in						
+0	37.3	28.7	66.7	38.4	38.2	661
+1	62.7	71.3	33.3	61.6	61.8	1,068
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Le client ne veut pas-Stérilisation masculine/ Vasectomie						
+non	56.9	90.4	60.0	82.6	82.0	1,418
+oui	43.1	9.6	40.0	17.4	18.0	311
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Autres (précisez)-Stérilisation masculine/ Vasectomie						
+non	90.2	96.5	80.0	96.3	95.8	1,657
+oui	9.8	3.5	20.0	3.7	4.2	72
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Number	51	115	30	1,533	1,729	
+
+pillule
+	case	clinic	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service - Pilules						
+non	86.7	100.0	100.0	100.0	94.1	95
+oui	13.3	0.0	0.0	0.0	5.9	6
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+pil_inf						
+0	60.0	22.2	100.0	93.5	72.3	73
+1	40.0	77.8	0.0	6.5	27.7	28
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Le client ne veut pas-Pilules						
+non	55.6	100.0	0.0	13.0	39.6	40
+oui	44.4	0.0	100.0	87.0	60.4	61
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Autres (précisez)-Pilules						
+non	95.6	77.8	100.0	91.3	92.1	93
+oui	4.4	22.2	0.0	8.7	7.9	8
+Total	100.0	100.0	100.0	100.0	100.0	101
+
+Number	45	9	1	46	101	
+
+Injectable
+	case	clinic	ps	Total	Number
+	%	%	%	%	
+Raisons de la non-disponibilité du service- Injectable					
+non	66.7	100.0	100.0	84.4	27
+oui	33.3	0.0	0.0	15.6	5
+Total	100.0	100.0	100.0	100.0	32
+
+inj_inf					
+0	53.3	22.2	75.0	50.0	16
+1	46.7	77.8	25.0	50.0	16
+Total	100.0	100.0	100.0	100.0	32
+
+Le client ne veut pas-Injectable					
+non	73.3	100.0	37.5	71.9	23
+oui	26.7	0.0	62.5	28.1	9
+Total	100.0	100.0	100.0	100.0	32
+
+Autres (précisez)-Injectable					
+non	93.3	77.8	75.0	84.4	27
+oui	6.7	22.2	25.0	15.6	5
+Total	100.0	100.0	100.0	100.0	32
+
+Number	15	9	8	32	
+
+Préservatif masculin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif masculin 							
+non	98.2	100.0	100.0	80.0	97.3	97.5	353
+oui	1.8	0.0	0.0	20.0	2.7	2.5	9
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+pm_inf							
+0	50.9	23.7	71.4	40.0	70.2	58.6	212
+1	49.1	76.3	28.6	60.0	29.8	41.4	150
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Le client ne veut pas-Préservatif masculin 							
+non	43.8	81.6	50.0	60.0	31.4	42.0	152
+oui	56.2	18.4	50.0	40.0	68.6	58.0	210
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Autres (précisez)-Préservatif masculin 							
+non	93.8	89.5	78.6	90.0	94.1	92.8	336
+oui	6.2	10.5	21.4	10.0	5.9	7.2	26
+Total	100.0	100.0	100.0	100.0	100.0	100.0	362
+
+Number	112	38	14	10	188	362	
+
+Préservatif féminin
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Préservatif féminin							
+non	90.4	100.0	100.0	95.0	98.7	97.2	1,068
+oui	9.6	0.0	0.0	5.0	1.3	2.8	31
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+pf_in							
+0	52.4	23.3	74.4	60.0	69.8	64.7	711
+1	47.6	76.7	25.6	40.0	30.2	35.3	388
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Le client ne veut pas-Préservatif féminin							
+non	36.1	74.4	35.9	35.0	25.3	29.8	328
+oui	63.9	25.6	64.1	65.0	74.7	70.2	771
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Autres (précisez)-Préservatif féminin							
+non	97.1	90.7	87.2	100.0	97.8	97.1	1,067
+oui	2.9	9.3	12.8	0.0	2.2	2.9	32
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,099
+
+Number	208	43	39	20	789	1,099	
+
+Contraception d'urgence
+	case	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Contraception d'urgence							
+non	82.5	100.0	100.0	87.5	98.6	94.7	962
+oui	17.5	0.0	0.0	12.5	1.4	5.3	54
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+pcu_in							
+0	39.0	15.8	47.6	50.0	57.0	50.9	517
+1	61.0	84.2	52.4	50.0	43.0	49.1	499
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Le client ne veut pas-Contraception d'urgence							
+non	56.9	92.1	52.4	75.0	43.4	48.9	497
+oui	43.1	7.9	47.6	25.0	56.6	51.1	519
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Autres (précisez)-Contraception d'urgence							
+non	96.3	89.5	95.2	87.5	95.3	95.3	968
+oui	3.7	10.5	4.8	12.5	4.7	4.7	48
+Total	100.0	100.0	100.0	100.0	100.0	100.0	1,016
+
+Number	246	38	21	8	703	1,016	
+
+DIU
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-DIU						
+non	90.9	100.0	100.0	63.9	65.0	201
+oui	9.1	0.0	0.0	36.1	35.0	108
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+dui_in						
+0	18.2	0.0	100.0	70.3	68.3	211
+1	81.8	100.0	0.0	29.7	31.7	98
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Le client ne veut pas-DIU						
+non	90.9	100.0	0.0	54.4	55.7	172
+oui	9.1	0.0	100.0	45.6	44.3	137
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Autres (précisez)-DIU						
+non	100.0	100.0	100.0	94.9	95.1	294
+oui	0.0	0.0	0.0	5.1	4.9	15
+Total	100.0	100.0	100.0	100.0	100.0	309
+
+Number	11	1	1	296	309	
+
+Implant
+	clinic	ps	Total	Number
+	%	%	%	
+Raisons de la non-disponibilité du service-Implant				
+non	100.0	55.8	67.2	39
+oui	0.0	44.2	32.8	19
+Total	100.0	100.0	100.0	58
+
+implant_in				
+0	20.0	76.7	62.1	36
+1	80.0	23.3	37.9	22
+Total	100.0	100.0	100.0	58
+
+Le client ne veut pas-Implant				
+non	93.3	69.8	75.9	44
+oui	6.7	30.2	24.1	14
+Total	100.0	100.0	100.0	58
+
+Autres (précisez)-Implant				
+non	86.7	93.0	91.4	53
+oui	13.3	7.0	8.6	5
+Total	100.0	100.0	100.0	58
+
+Number	15	43	58	
+
+Stérilisation féminine (Ligature des trompes)
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation féminine (Ligature des 						
+non	81.2	47.0	80.0	33.5	35.5	582
+oui	18.8	53.0	20.0	66.5	64.5	1,056
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+sf_in						
+0	31.2	28.0	80.0	38.6	38.1	624
+1	68.8	72.0	20.0	61.4	61.9	1,014
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Le client ne veut pas-Stérilisation féminine (Ligature des trompes) 						
+non	81.2	92.0	50.0	82.9	83.2	1,363
+oui	18.8	8.0	50.0	17.1	16.8	275
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Autres (précisez)-Stérilisation féminine (Ligature des trompes) 						
+non	81.2	96.0	90.0	95.8	95.5	1,564
+oui	18.8	4.0	10.0	4.2	4.5	74
+Total	100.0	100.0	100.0	100.0	100.0	1,638
+
+Number	32	100	10	1,496	1,638	
+
+Stérilisation Masculine
+	clinic	cs	eps	ps	Total	Number
+	%	%	%	%	%	
+Raisons de la non-disponibilité du service-Stérilisation masculine/ Vasectomie						
+non	72.5	49.6	66.7	33.7	36.5	631
+oui	27.5	50.4	33.3	66.3	63.5	1,098
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+sm_in						
+0	37.3	28.7	66.7	38.4	38.2	661
+1	62.7	71.3	33.3	61.6	61.8	1,068
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Le client ne veut pas-Stérilisation masculine/ Vasectomie						
+non	56.9	90.4	60.0	82.6	82.0	1,418
+oui	43.1	9.6	40.0	17.4	18.0	311
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Autres (précisez)-Stérilisation masculine/ Vasectomie						
+non	90.2	96.5	80.0	96.3	95.8	1,657
+oui	9.8	3.5	20.0	3.7	4.2	72
+Total	100.0	100.0	100.0	100.0	100.0	1,729
+
+Number	51	115	30	1,533	1,729	
+

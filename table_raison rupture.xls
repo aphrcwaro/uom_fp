@@ -1,0 +1,1656 @@
+Condom Masculin
+	cs	eps	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Préservatif masculin				
+0	25.0	50.0	30.0	3
+1	75.0	50.0	70.0	7
+Total	100.0	100.0	100.0	10
+
+Contraintes budgétaires- Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Options d'achat limitées - Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Problèmes d'assurance qualité - Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Autre (préciser)-Préservatif masculin				
+0	75.0	50.0	70.0	7
+1	25.0	50.0	30.0	3
+Total	100.0	100.0	100.0	10
+
+Number	8	2	10	
+
+Condom Feminin
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Préservatif feminin					
+0	100.0	27.8	50.0	33.3	7
+1	0.0	72.2	50.0	66.7	14
+Total	100.0	100.0	100.0	100.0	21
+
+Contraintes budgétaires- Préservatif feminin					
+0	100.0	94.4	100.0	95.2	20
+1	0.0	5.6	0.0	4.8	1
+Total	100.0	100.0	100.0	100.0	21
+
+Options d'achat limitées - Préservatif feminin					
+0	0.0	77.8	50.0	71.4	15
+1	100.0	22.2	50.0	28.6	6
+Total	100.0	100.0	100.0	100.0	21
+
+Problèmes d'assurance qualité - Préservatif feminin					
+0	100.0	100.0	100.0	100.0	21
+Total	100.0	100.0	100.0	100.0	21
+
+Autre (préciser)-Préservatif masculin					
+0	100.0	88.9	50.0	85.7	18
+1	0.0	11.1	50.0	14.3	3
+Total	100.0	100.0	100.0	100.0	21
+
+Number	1	18	2	21	
+
+PCU
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive d'urgence 					
+0	0.0	22.2	100.0	33.3	4
+1	100.0	77.8	0.0	66.7	8
+Total	100.0	100.0	100.0	100.0	12
+
+Contraintes budgétaires- Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	12
+Total	100.0	100.0	100.0	100.0	12
+
+Options d'achat limitées - Pilule contraceptive d'urgence 					
+0	100.0	88.9	50.0	83.3	10
+1	0.0	11.1	50.0	16.7	2
+Total	100.0	100.0	100.0	100.0	12
+
+Problèmes d'assurance qualité - Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	12
+Total	100.0	100.0	100.0	100.0	12
+
+Autre (préciser)-Pilule contraceptive d'urgence					
+0	100.0	88.9	50.0	83.3	10
+1	0.0	11.1	50.0	16.7	2
+Total	100.0	100.0	100.0	100.0	12
+
+Number	1	9	2	12	
+
+Injectable depo
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable-Depo Provera 					
+0	100.0	0.0	0.0	50.0	2
+1	0.0	100.0	100.0	50.0	2
+Total	100.0	100.0	100.0	100.0	4
+
+Contraintes budgétaires - Injectable-Depo Provera 					
+0	100.0	100.0	100.0	100.0	4
+Total	100.0	100.0	100.0	100.0	4
+
+Options d'achat limitées - Injectable-Depo Provera					
+0	50.0	100.0	100.0	75.0	3
+1	50.0	0.0	0.0	25.0	1
+Total	100.0	100.0	100.0	100.0	4
+
+Problèmes d'assurance qualité - Injectable-Depo Provera					
+0	100.0	100.0	100.0	100.0	4
+Total	100.0	100.0	100.0	100.0	4
+
+Autre (préciser)- Injectable-Depo Provera					
+0	50.0	100.0	100.0	75.0	3
+1	50.0	0.0	0.0	25.0	1
+Total	100.0	100.0	100.0	100.0	4
+
+Number	2	1	1	4	
+
+Injectable sayana
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable- Sayana Press					
+0	66.7	33.3	100.0	57.1	4
+1	33.3	66.7	0.0	42.9	3
+Total	100.0	100.0	100.0	100.0	7
+
+Contraintes budgétaires - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	7
+Total	100.0	100.0	100.0	100.0	7
+
+Options d'achat limitées - Injectable- Sayana Press					
+0	66.7	100.0	100.0	85.7	6
+1	33.3	0.0	0.0	14.3	1
+Total	100.0	100.0	100.0	100.0	7
+
+Problèmes d'assurance qualité - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	7
+Total	100.0	100.0	100.0	100.0	7
+
+Autre (préciser)- Injectable-Sayana Press					
+0	66.7	66.7	0.0	57.1	4
+1	33.3	33.3	100.0	42.9	3
+Total	100.0	100.0	100.0	100.0	7
+
+Number	3	3	1	7	
+
+Implant
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Implants					
+0	100.0	50.0	0.0	33.3	2
+1	0.0	50.0	100.0	66.7	4
+Total	100.0	100.0	100.0	100.0	6
+
+Contraintes budgétaires - Implants					
+0	100.0	100.0	100.0	100.0	6
+Total	100.0	100.0	100.0	100.0	6
+
+Options d'achat limitées - Implants					
+0	0.0	100.0	100.0	83.3	5
+1	100.0	0.0	0.0	16.7	1
+Total	100.0	100.0	100.0	100.0	6
+
+Problèmes d'assurance qualité - Implants					
+0	100.0	100.0	100.0	100.0	6
+Total	100.0	100.0	100.0	100.0	6
+
+Autre (préciser)-Implants					
+0	100.0	50.0	100.0	83.3	5
+1	0.0	50.0	0.0	16.7	1
+Total	100.0	100.0	100.0	100.0	6
+
+Number	1	2	3	6	
+
+PCO
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive orale (PCO) 					
+0	0.0	0.0	100.0	12.5	1
+1	100.0	100.0	0.0	87.5	7
+Total	100.0	100.0	100.0	100.0	8
+
+Contraintes budgétaires - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Options d'achat limitées - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	0.0	87.5	7
+1	0.0	0.0	100.0	12.5	1
+Total	100.0	100.0	100.0	100.0	8
+
+Problèmes d'assurance qualité - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Autre (préciser)-Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Number	2	5	1	8	
+
+Pillule progesterone
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Pilules à base de progestérone 				
+0	33.3	0.0	11.1	1
+1	66.7	100.0	88.9	8
+Total	100.0	100.0	100.0	9
+
+Contraintes budgétaires - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Options d'achat limitées - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Problèmes d'assurance qualité - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Autre (préciser)-Pilules à base de progestérone 				
+0	66.7	100.0	88.9	8
+1	33.3	0.0	11.1	1
+Total	100.0	100.0	100.0	9
+
+Number	3	6	9	
+
+DUI
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - DUI				
+0	16.7	10.0	12.5	2
+1	83.3	90.0	87.5	14
+Total	100.0	100.0	100.0	16
+
+Contraintes budgétaires - DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Options d'achat limitées - DUI				
+0	83.3	90.0	87.5	14
+1	16.7	10.0	12.5	2
+Total	100.0	100.0	100.0	16
+
+Problèmes d'assurance qualité - DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Autre (préciser)-DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Number	6	10	16	
+
+Anneaux tubaire
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Anneaux tubaires					
+0	50.0	0.0	0.0	12.5	1
+1	50.0	100.0	100.0	87.5	7
+Total	100.0	100.0	100.0	100.0	8
+
+Contraintes budgétaires - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Options d'achat limitées - Anneaux tubaires					
+0	50.0	100.0	100.0	87.5	7
+1	50.0	0.0	0.0	12.5	1
+Total	100.0	100.0	100.0	100.0	8
+
+Problèmes d'assurance qualité - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Autre (préciser)-Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Number	2	4	2	8	
+
+Condom Masculin
+	cs	eps	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Préservatif masculin				
+0	25.0	50.0	30.0	3
+1	75.0	50.0	70.0	7
+Total	100.0	100.0	100.0	10
+
+Contraintes budgétaires- Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Options d'achat limitées - Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Problèmes d'assurance qualité - Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Autre (préciser)-Préservatif masculin				
+0	75.0	50.0	70.0	7
+1	25.0	50.0	30.0	3
+Total	100.0	100.0	100.0	10
+
+Number	8	2	10	
+
+Condom Feminin
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Préservatif feminin					
+0	100.0	27.8	50.0	33.3	7
+1	0.0	72.2	50.0	66.7	14
+Total	100.0	100.0	100.0	100.0	21
+
+Contraintes budgétaires- Préservatif feminin					
+0	100.0	94.4	100.0	95.2	20
+1	0.0	5.6	0.0	4.8	1
+Total	100.0	100.0	100.0	100.0	21
+
+Options d'achat limitées - Préservatif feminin					
+0	0.0	77.8	50.0	71.4	15
+1	100.0	22.2	50.0	28.6	6
+Total	100.0	100.0	100.0	100.0	21
+
+Problèmes d'assurance qualité - Préservatif feminin					
+0	100.0	100.0	100.0	100.0	21
+Total	100.0	100.0	100.0	100.0	21
+
+Autre (préciser)-Préservatif masculin					
+0	100.0	88.9	50.0	85.7	18
+1	0.0	11.1	50.0	14.3	3
+Total	100.0	100.0	100.0	100.0	21
+
+Number	1	18	2	21	
+
+PCU
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive d'urgence 					
+0	0.0	22.2	100.0	33.3	4
+1	100.0	77.8	0.0	66.7	8
+Total	100.0	100.0	100.0	100.0	12
+
+Contraintes budgétaires- Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	12
+Total	100.0	100.0	100.0	100.0	12
+
+Options d'achat limitées - Pilule contraceptive d'urgence 					
+0	100.0	88.9	50.0	83.3	10
+1	0.0	11.1	50.0	16.7	2
+Total	100.0	100.0	100.0	100.0	12
+
+Problèmes d'assurance qualité - Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	12
+Total	100.0	100.0	100.0	100.0	12
+
+Autre (préciser)-Pilule contraceptive d'urgence					
+0	100.0	88.9	50.0	83.3	10
+1	0.0	11.1	50.0	16.7	2
+Total	100.0	100.0	100.0	100.0	12
+
+Number	1	9	2	12	
+
+Injectable depo
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable-Depo Provera 					
+0	100.0	0.0	0.0	50.0	2
+1	0.0	100.0	100.0	50.0	2
+Total	100.0	100.0	100.0	100.0	4
+
+Contraintes budgétaires - Injectable-Depo Provera 					
+0	100.0	100.0	100.0	100.0	4
+Total	100.0	100.0	100.0	100.0	4
+
+Options d'achat limitées - Injectable-Depo Provera					
+0	50.0	100.0	100.0	75.0	3
+1	50.0	0.0	0.0	25.0	1
+Total	100.0	100.0	100.0	100.0	4
+
+Problèmes d'assurance qualité - Injectable-Depo Provera					
+0	100.0	100.0	100.0	100.0	4
+Total	100.0	100.0	100.0	100.0	4
+
+Autre (préciser)- Injectable-Depo Provera					
+0	50.0	100.0	100.0	75.0	3
+1	50.0	0.0	0.0	25.0	1
+Total	100.0	100.0	100.0	100.0	4
+
+Number	2	1	1	4	
+
+Injectable sayana
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable- Sayana Press					
+0	66.7	33.3	100.0	57.1	4
+1	33.3	66.7	0.0	42.9	3
+Total	100.0	100.0	100.0	100.0	7
+
+Contraintes budgétaires - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	7
+Total	100.0	100.0	100.0	100.0	7
+
+Options d'achat limitées - Injectable- Sayana Press					
+0	66.7	100.0	100.0	85.7	6
+1	33.3	0.0	0.0	14.3	1
+Total	100.0	100.0	100.0	100.0	7
+
+Problèmes d'assurance qualité - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	7
+Total	100.0	100.0	100.0	100.0	7
+
+Autre (préciser)- Injectable-Sayana Press					
+0	66.7	66.7	0.0	57.1	4
+1	33.3	33.3	100.0	42.9	3
+Total	100.0	100.0	100.0	100.0	7
+
+Number	3	3	1	7	
+
+Implant
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Implants					
+0	100.0	50.0	0.0	33.3	2
+1	0.0	50.0	100.0	66.7	4
+Total	100.0	100.0	100.0	100.0	6
+
+Contraintes budgétaires - Implants					
+0	100.0	100.0	100.0	100.0	6
+Total	100.0	100.0	100.0	100.0	6
+
+Options d'achat limitées - Implants					
+0	0.0	100.0	100.0	83.3	5
+1	100.0	0.0	0.0	16.7	1
+Total	100.0	100.0	100.0	100.0	6
+
+Problèmes d'assurance qualité - Implants					
+0	100.0	100.0	100.0	100.0	6
+Total	100.0	100.0	100.0	100.0	6
+
+Autre (préciser)-Implants					
+0	100.0	50.0	100.0	83.3	5
+1	0.0	50.0	0.0	16.7	1
+Total	100.0	100.0	100.0	100.0	6
+
+Number	1	2	3	6	
+
+PCO
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive orale (PCO) 					
+0	0.0	0.0	100.0	12.5	1
+1	100.0	100.0	0.0	87.5	7
+Total	100.0	100.0	100.0	100.0	8
+
+Contraintes budgétaires - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Options d'achat limitées - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	0.0	87.5	7
+1	0.0	0.0	100.0	12.5	1
+Total	100.0	100.0	100.0	100.0	8
+
+Problèmes d'assurance qualité - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Autre (préciser)-Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Number	2	5	1	8	
+
+Pillule progesterone
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Pilules à base de progestérone 				
+0	33.3	0.0	11.1	1
+1	66.7	100.0	88.9	8
+Total	100.0	100.0	100.0	9
+
+Contraintes budgétaires - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Options d'achat limitées - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Problèmes d'assurance qualité - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Autre (préciser)-Pilules à base de progestérone 				
+0	66.7	100.0	88.9	8
+1	33.3	0.0	11.1	1
+Total	100.0	100.0	100.0	9
+
+Number	3	6	9	
+
+DUI
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - DUI				
+0	16.7	10.0	12.5	2
+1	83.3	90.0	87.5	14
+Total	100.0	100.0	100.0	16
+
+Contraintes budgétaires - DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Options d'achat limitées - DUI				
+0	83.3	90.0	87.5	14
+1	16.7	10.0	12.5	2
+Total	100.0	100.0	100.0	16
+
+Problèmes d'assurance qualité - DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Autre (préciser)-DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Number	6	10	16	
+
+Anneaux tubaire
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Anneaux tubaires					
+0	50.0	0.0	0.0	12.5	1
+1	50.0	100.0	100.0	87.5	7
+Total	100.0	100.0	100.0	100.0	8
+
+Contraintes budgétaires - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Options d'achat limitées - Anneaux tubaires					
+0	50.0	100.0	100.0	87.5	7
+1	50.0	0.0	0.0	12.5	1
+Total	100.0	100.0	100.0	100.0	8
+
+Problèmes d'assurance qualité - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Autre (préciser)-Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Number	2	4	2	8	
+
+Condom Masculin
+	cs	eps	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Préservatif masculin				
+0	22.6	90.9	50.9	27
+1	77.4	9.1	49.1	26
+Total	100.0	100.0	100.0	53
+
+Contraintes budgétaires- Préservatif masculin				
+0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	53
+
+Options d'achat limitées - Préservatif masculin				
+0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	53
+
+Problèmes d'assurance qualité - Préservatif masculin				
+0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	53
+
+Autre (préciser)-Préservatif masculin				
+0	77.4	9.1	49.1	26
+1	22.6	90.9	50.9	27
+Total	100.0	100.0	100.0	53
+
+Number	31	22	53	
+
+Condom Feminin
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Préservatif feminin					
+0	100.0	32.4	60.6	43.8	46
+1	0.0	67.6	39.4	56.2	59
+Total	100.0	100.0	100.0	100.0	105
+
+Contraintes budgétaires- Préservatif feminin					
+0	100.0	95.6	100.0	97.1	102
+1	0.0	4.4	0.0	2.9	3
+Total	100.0	100.0	100.0	100.0	105
+
+Options d'achat limitées - Préservatif feminin					
+0	0.0	73.5	60.6	66.7	70
+1	100.0	26.5	39.4	33.3	35
+Total	100.0	100.0	100.0	100.0	105
+
+Problèmes d'assurance qualité - Préservatif feminin					
+0	100.0	100.0	100.0	100.0	105
+Total	100.0	100.0	100.0	100.0	105
+
+Autre (préciser)-Préservatif masculin					
+0	100.0	89.7	39.4	74.3	78
+1	0.0	10.3	60.6	25.7	27
+Total	100.0	100.0	100.0	100.0	105
+
+Number	4	68	33	105	
+
+PCU
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive d'urgence 					
+0	0.0	19.2	100.0	23.7	14
+1	100.0	80.8	0.0	76.3	45
+Total	100.0	100.0	100.0	100.0	59
+
+Contraintes budgétaires- Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	59
+Total	100.0	100.0	100.0	100.0	59
+
+Options d'achat limitées - Pilule contraceptive d'urgence 					
+0	100.0	88.5	50.0	86.4	51
+1	0.0	11.5	50.0	13.6	8
+Total	100.0	100.0	100.0	100.0	59
+
+Problèmes d'assurance qualité - Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	59
+Total	100.0	100.0	100.0	100.0	59
+
+Autre (préciser)-Pilule contraceptive d'urgence					
+0	100.0	92.3	50.0	89.8	53
+1	0.0	7.7	50.0	10.2	6
+Total	100.0	100.0	100.0	100.0	59
+
+Number	3	52	4	59	
+
+Injectable depo
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable-Depo Provera 					
+0	100.0	0.0	0.0	44.0	11
+1	0.0	100.0	100.0	56.0	14
+Total	100.0	100.0	100.0	100.0	25
+
+Contraintes budgétaires - Injectable-Depo Provera 					
+0	100.0	100.0	100.0	100.0	25
+Total	100.0	100.0	100.0	100.0	25
+
+Options d'achat limitées - Injectable-Depo Provera					
+0	72.7	100.0	100.0	88.0	22
+1	27.3	0.0	0.0	12.0	3
+Total	100.0	100.0	100.0	100.0	25
+
+Problèmes d'assurance qualité - Injectable-Depo Provera					
+0	100.0	100.0	100.0	100.0	25
+Total	100.0	100.0	100.0	100.0	25
+
+Autre (préciser)- Injectable-Depo Provera					
+0	27.3	100.0	100.0	68.0	17
+1	72.7	0.0	0.0	32.0	8
+Total	100.0	100.0	100.0	100.0	25
+
+Number	11	3	11	25	
+
+Injectable sayana
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable- Sayana Press					
+0	68.8	33.3	100.0	62.9	22
+1	31.2	66.7	0.0	37.1	13
+Total	100.0	100.0	100.0	100.0	35
+
+Contraintes budgétaires - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	35
+Total	100.0	100.0	100.0	100.0	35
+
+Options d'achat limitées - Injectable- Sayana Press					
+0	81.2	100.0	100.0	91.4	32
+1	18.8	0.0	0.0	8.6	3
+Total	100.0	100.0	100.0	100.0	35
+
+Problèmes d'assurance qualité - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	35
+Total	100.0	100.0	100.0	100.0	35
+
+Autre (préciser)- Injectable-Sayana Press					
+0	50.0	66.7	0.0	45.7	16
+1	50.0	33.3	100.0	54.3	19
+Total	100.0	100.0	100.0	100.0	35
+
+Number	16	12	7	35	
+
+Implant
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Implants					
+0	100.0	42.9	0.0	21.6	8
+1	0.0	57.1	100.0	78.4	29
+Total	100.0	100.0	100.0	100.0	37
+
+Contraintes budgétaires - Implants					
+0	100.0	100.0	100.0	100.0	37
+Total	100.0	100.0	100.0	100.0	37
+
+Options d'achat limitées - Implants					
+0	0.0	100.0	100.0	86.5	32
+1	100.0	0.0	0.0	13.5	5
+Total	100.0	100.0	100.0	100.0	37
+
+Problèmes d'assurance qualité - Implants					
+0	100.0	100.0	100.0	100.0	37
+Total	100.0	100.0	100.0	100.0	37
+
+Autre (préciser)-Implants					
+0	100.0	57.1	100.0	91.9	34
+1	0.0	42.9	0.0	8.1	3
+Total	100.0	100.0	100.0	100.0	37
+
+Number	5	7	25	37	
+
+PCO
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive orale (PCO) 					
+0	0.0	0.0	100.0	18.9	7
+1	100.0	100.0	0.0	81.1	30
+Total	100.0	100.0	100.0	100.0	37
+
+Contraintes budgétaires - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	37
+Total	100.0	100.0	100.0	100.0	37
+
+Options d'achat limitées - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	0.0	81.1	30
+1	0.0	0.0	100.0	18.9	7
+Total	100.0	100.0	100.0	100.0	37
+
+Problèmes d'assurance qualité - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	37
+Total	100.0	100.0	100.0	100.0	37
+
+Autre (préciser)-Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	37
+Total	100.0	100.0	100.0	100.0	37
+
+Number	10	20	7	37	
+
+Pillule progesterone
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Pilules à base de progestérone 				
+0	44.4	0.0	22.9	8
+1	55.6	100.0	77.1	27
+Total	100.0	100.0	100.0	35
+
+Contraintes budgétaires - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	35
+Total	100.0	100.0	100.0	35
+
+Options d'achat limitées - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	35
+Total	100.0	100.0	100.0	35
+
+Problèmes d'assurance qualité - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	35
+Total	100.0	100.0	100.0	35
+
+Autre (préciser)-Pilules à base de progestérone 				
+0	55.6	100.0	77.1	27
+1	44.4	0.0	22.9	8
+Total	100.0	100.0	100.0	35
+
+Number	18	17	35	
+
+DUI
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - DUI				
+0	17.9	7.9	12.1	8
+1	82.1	92.1	87.9	58
+Total	100.0	100.0	100.0	66
+
+Contraintes budgétaires - DUI				
+0	100.0	100.0	100.0	66
+Total	100.0	100.0	100.0	66
+
+Options d'achat limitées - DUI				
+0	82.1	92.1	87.9	58
+1	17.9	7.9	12.1	8
+Total	100.0	100.0	100.0	66
+
+Problèmes d'assurance qualité - DUI				
+0	100.0	100.0	100.0	66
+Total	100.0	100.0	100.0	66
+
+Autre (préciser)-DUI				
+0	100.0	100.0	100.0	66
+Total	100.0	100.0	100.0	66
+
+Number	28	38	66	
+
+Anneaux tubaire
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Anneaux tubaires					
+0	36.4	0.0	0.0	7.5	4
+1	63.6	100.0	100.0	92.5	49
+Total	100.0	100.0	100.0	100.0	53
+
+Contraintes budgétaires - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	100.0	53
+
+Options d'achat limitées - Anneaux tubaires					
+0	63.6	100.0	100.0	92.5	49
+1	36.4	0.0	0.0	7.5	4
+Total	100.0	100.0	100.0	100.0	53
+
+Problèmes d'assurance qualité - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	100.0	53
+
+Autre (préciser)-Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	100.0	53
+
+Number	11	16	26	53	
+
+Condom Masculin
+	cs	eps	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Préservatif masculin				
+0	22.6	90.9	50.9	27
+1	77.4	9.1	49.1	26
+Total	100.0	100.0	100.0	53
+
+Contraintes budgétaires- Préservatif masculin				
+0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	53
+
+Options d'achat limitées - Préservatif masculin				
+0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	53
+
+Problèmes d'assurance qualité - Préservatif masculin				
+0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	53
+
+Autre (préciser)-Préservatif masculin				
+0	77.4	9.1	49.1	26
+1	22.6	90.9	50.9	27
+Total	100.0	100.0	100.0	53
+
+Number	31	22	53	
+
+Condom Feminin
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Préservatif feminin					
+0	100.0	32.4	60.6	43.8	46
+1	0.0	67.6	39.4	56.2	59
+Total	100.0	100.0	100.0	100.0	105
+
+Contraintes budgétaires- Préservatif feminin					
+0	100.0	95.6	100.0	97.1	102
+1	0.0	4.4	0.0	2.9	3
+Total	100.0	100.0	100.0	100.0	105
+
+Options d'achat limitées - Préservatif feminin					
+0	0.0	73.5	60.6	66.7	70
+1	100.0	26.5	39.4	33.3	35
+Total	100.0	100.0	100.0	100.0	105
+
+Problèmes d'assurance qualité - Préservatif feminin					
+0	100.0	100.0	100.0	100.0	105
+Total	100.0	100.0	100.0	100.0	105
+
+Autre (préciser)-Préservatif masculin					
+0	100.0	89.7	39.4	74.3	78
+1	0.0	10.3	60.6	25.7	27
+Total	100.0	100.0	100.0	100.0	105
+
+Number	4	68	33	105	
+
+PCU
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive d'urgence 					
+0	0.0	19.2	100.0	23.7	14
+1	100.0	80.8	0.0	76.3	45
+Total	100.0	100.0	100.0	100.0	59
+
+Contraintes budgétaires- Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	59
+Total	100.0	100.0	100.0	100.0	59
+
+Options d'achat limitées - Pilule contraceptive d'urgence 					
+0	100.0	88.5	50.0	86.4	51
+1	0.0	11.5	50.0	13.6	8
+Total	100.0	100.0	100.0	100.0	59
+
+Problèmes d'assurance qualité - Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	59
+Total	100.0	100.0	100.0	100.0	59
+
+Autre (préciser)-Pilule contraceptive d'urgence					
+0	100.0	92.3	50.0	89.8	53
+1	0.0	7.7	50.0	10.2	6
+Total	100.0	100.0	100.0	100.0	59
+
+Number	3	52	4	59	
+
+Injectable depo
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable-Depo Provera 					
+0	100.0	0.0	0.0	44.0	11
+1	0.0	100.0	100.0	56.0	14
+Total	100.0	100.0	100.0	100.0	25
+
+Contraintes budgétaires - Injectable-Depo Provera 					
+0	100.0	100.0	100.0	100.0	25
+Total	100.0	100.0	100.0	100.0	25
+
+Options d'achat limitées - Injectable-Depo Provera					
+0	72.7	100.0	100.0	88.0	22
+1	27.3	0.0	0.0	12.0	3
+Total	100.0	100.0	100.0	100.0	25
+
+Problèmes d'assurance qualité - Injectable-Depo Provera					
+0	100.0	100.0	100.0	100.0	25
+Total	100.0	100.0	100.0	100.0	25
+
+Autre (préciser)- Injectable-Depo Provera					
+0	27.3	100.0	100.0	68.0	17
+1	72.7	0.0	0.0	32.0	8
+Total	100.0	100.0	100.0	100.0	25
+
+Number	11	3	11	25	
+
+Injectable sayana
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable- Sayana Press					
+0	68.8	33.3	100.0	62.9	22
+1	31.2	66.7	0.0	37.1	13
+Total	100.0	100.0	100.0	100.0	35
+
+Contraintes budgétaires - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	35
+Total	100.0	100.0	100.0	100.0	35
+
+Options d'achat limitées - Injectable- Sayana Press					
+0	81.2	100.0	100.0	91.4	32
+1	18.8	0.0	0.0	8.6	3
+Total	100.0	100.0	100.0	100.0	35
+
+Problèmes d'assurance qualité - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	35
+Total	100.0	100.0	100.0	100.0	35
+
+Autre (préciser)- Injectable-Sayana Press					
+0	50.0	66.7	0.0	45.7	16
+1	50.0	33.3	100.0	54.3	19
+Total	100.0	100.0	100.0	100.0	35
+
+Number	16	12	7	35	
+
+Implant
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Implants					
+0	100.0	42.9	0.0	21.6	8
+1	0.0	57.1	100.0	78.4	29
+Total	100.0	100.0	100.0	100.0	37
+
+Contraintes budgétaires - Implants					
+0	100.0	100.0	100.0	100.0	37
+Total	100.0	100.0	100.0	100.0	37
+
+Options d'achat limitées - Implants					
+0	0.0	100.0	100.0	86.5	32
+1	100.0	0.0	0.0	13.5	5
+Total	100.0	100.0	100.0	100.0	37
+
+Problèmes d'assurance qualité - Implants					
+0	100.0	100.0	100.0	100.0	37
+Total	100.0	100.0	100.0	100.0	37
+
+Autre (préciser)-Implants					
+0	100.0	57.1	100.0	91.9	34
+1	0.0	42.9	0.0	8.1	3
+Total	100.0	100.0	100.0	100.0	37
+
+Number	5	7	25	37	
+
+PCO
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive orale (PCO) 					
+0	0.0	0.0	100.0	18.9	7
+1	100.0	100.0	0.0	81.1	30
+Total	100.0	100.0	100.0	100.0	37
+
+Contraintes budgétaires - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	37
+Total	100.0	100.0	100.0	100.0	37
+
+Options d'achat limitées - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	0.0	81.1	30
+1	0.0	0.0	100.0	18.9	7
+Total	100.0	100.0	100.0	100.0	37
+
+Problèmes d'assurance qualité - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	37
+Total	100.0	100.0	100.0	100.0	37
+
+Autre (préciser)-Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	37
+Total	100.0	100.0	100.0	100.0	37
+
+Number	10	20	7	37	
+
+Pillule progesterone
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Pilules à base de progestérone 				
+0	44.4	0.0	22.9	8
+1	55.6	100.0	77.1	27
+Total	100.0	100.0	100.0	35
+
+Contraintes budgétaires - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	35
+Total	100.0	100.0	100.0	35
+
+Options d'achat limitées - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	35
+Total	100.0	100.0	100.0	35
+
+Problèmes d'assurance qualité - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	35
+Total	100.0	100.0	100.0	35
+
+Autre (préciser)-Pilules à base de progestérone 				
+0	55.6	100.0	77.1	27
+1	44.4	0.0	22.9	8
+Total	100.0	100.0	100.0	35
+
+Number	18	17	35	
+
+DUI
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - DUI				
+0	17.9	7.9	12.1	8
+1	82.1	92.1	87.9	58
+Total	100.0	100.0	100.0	66
+
+Contraintes budgétaires - DUI				
+0	100.0	100.0	100.0	66
+Total	100.0	100.0	100.0	66
+
+Options d'achat limitées - DUI				
+0	82.1	92.1	87.9	58
+1	17.9	7.9	12.1	8
+Total	100.0	100.0	100.0	66
+
+Problèmes d'assurance qualité - DUI				
+0	100.0	100.0	100.0	66
+Total	100.0	100.0	100.0	66
+
+Autre (préciser)-DUI				
+0	100.0	100.0	100.0	66
+Total	100.0	100.0	100.0	66
+
+Number	28	38	66	
+
+Anneaux tubaire
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Anneaux tubaires					
+0	36.4	0.0	0.0	7.5	4
+1	63.6	100.0	100.0	92.5	49
+Total	100.0	100.0	100.0	100.0	53
+
+Contraintes budgétaires - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	100.0	53
+
+Options d'achat limitées - Anneaux tubaires					
+0	63.6	100.0	100.0	92.5	49
+1	36.4	0.0	0.0	7.5	4
+Total	100.0	100.0	100.0	100.0	53
+
+Problèmes d'assurance qualité - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	100.0	53
+
+Autre (préciser)-Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	53
+Total	100.0	100.0	100.0	100.0	53
+
+Number	11	16	26	53	
+
+Condom Masculin
+	cs	eps	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Préservatif masculin				
+0	25.0	50.0	30.0	3
+1	75.0	50.0	70.0	7
+Total	100.0	100.0	100.0	10
+
+Contraintes budgétaires- Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Options d'achat limitées - Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Problèmes d'assurance qualité - Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Autre (préciser)-Préservatif masculin				
+0	75.0	50.0	70.0	7
+1	25.0	50.0	30.0	3
+Total	100.0	100.0	100.0	10
+
+Number	8	2	10	
+
+Condom Feminin
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Préservatif feminin					
+0	100.0	27.8	50.0	33.3	7
+1	0.0	72.2	50.0	66.7	14
+Total	100.0	100.0	100.0	100.0	21
+
+Contraintes budgétaires- Préservatif feminin					
+0	100.0	94.4	100.0	95.2	20
+1	0.0	5.6	0.0	4.8	1
+Total	100.0	100.0	100.0	100.0	21
+
+Options d'achat limitées - Préservatif feminin					
+0	0.0	77.8	50.0	71.4	15
+1	100.0	22.2	50.0	28.6	6
+Total	100.0	100.0	100.0	100.0	21
+
+Problèmes d'assurance qualité - Préservatif feminin					
+0	100.0	100.0	100.0	100.0	21
+Total	100.0	100.0	100.0	100.0	21
+
+Autre (préciser)-Préservatif masculin					
+0	100.0	88.9	50.0	85.7	18
+1	0.0	11.1	50.0	14.3	3
+Total	100.0	100.0	100.0	100.0	21
+
+Number	1	18	2	21	
+
+PCU
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive d'urgence 					
+0	0.0	22.2	100.0	33.3	4
+1	100.0	77.8	0.0	66.7	8
+Total	100.0	100.0	100.0	100.0	12
+
+Contraintes budgétaires- Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	12
+Total	100.0	100.0	100.0	100.0	12
+
+Options d'achat limitées - Pilule contraceptive d'urgence 					
+0	100.0	88.9	50.0	83.3	10
+1	0.0	11.1	50.0	16.7	2
+Total	100.0	100.0	100.0	100.0	12
+
+Problèmes d'assurance qualité - Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	12
+Total	100.0	100.0	100.0	100.0	12
+
+Autre (préciser)-Pilule contraceptive d'urgence					
+0	100.0	88.9	50.0	83.3	10
+1	0.0	11.1	50.0	16.7	2
+Total	100.0	100.0	100.0	100.0	12
+
+Number	1	9	2	12	
+
+Injectable depo
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable-Depo Provera 					
+0	100.0	0.0	0.0	50.0	2
+1	0.0	100.0	100.0	50.0	2
+Total	100.0	100.0	100.0	100.0	4
+
+Contraintes budgétaires - Injectable-Depo Provera 					
+0	100.0	100.0	100.0	100.0	4
+Total	100.0	100.0	100.0	100.0	4
+
+Options d'achat limitées - Injectable-Depo Provera					
+0	50.0	100.0	100.0	75.0	3
+1	50.0	0.0	0.0	25.0	1
+Total	100.0	100.0	100.0	100.0	4
+
+Problèmes d'assurance qualité - Injectable-Depo Provera					
+0	100.0	100.0	100.0	100.0	4
+Total	100.0	100.0	100.0	100.0	4
+
+Autre (préciser)- Injectable-Depo Provera					
+0	50.0	100.0	100.0	75.0	3
+1	50.0	0.0	0.0	25.0	1
+Total	100.0	100.0	100.0	100.0	4
+
+Number	2	1	1	4	
+
+Injectable sayana
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable- Sayana Press					
+0	66.7	33.3	100.0	57.1	4
+1	33.3	66.7	0.0	42.9	3
+Total	100.0	100.0	100.0	100.0	7
+
+Contraintes budgétaires - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	7
+Total	100.0	100.0	100.0	100.0	7
+
+Options d'achat limitées - Injectable- Sayana Press					
+0	66.7	100.0	100.0	85.7	6
+1	33.3	0.0	0.0	14.3	1
+Total	100.0	100.0	100.0	100.0	7
+
+Problèmes d'assurance qualité - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	7
+Total	100.0	100.0	100.0	100.0	7
+
+Autre (préciser)- Injectable-Sayana Press					
+0	66.7	66.7	0.0	57.1	4
+1	33.3	33.3	100.0	42.9	3
+Total	100.0	100.0	100.0	100.0	7
+
+Number	3	3	1	7	
+
+Implant
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Implants					
+0	100.0	50.0	0.0	33.3	2
+1	0.0	50.0	100.0	66.7	4
+Total	100.0	100.0	100.0	100.0	6
+
+Contraintes budgétaires - Implants					
+0	100.0	100.0	100.0	100.0	6
+Total	100.0	100.0	100.0	100.0	6
+
+Options d'achat limitées - Implants					
+0	0.0	100.0	100.0	83.3	5
+1	100.0	0.0	0.0	16.7	1
+Total	100.0	100.0	100.0	100.0	6
+
+Problèmes d'assurance qualité - Implants					
+0	100.0	100.0	100.0	100.0	6
+Total	100.0	100.0	100.0	100.0	6
+
+Autre (préciser)-Implants					
+0	100.0	50.0	100.0	83.3	5
+1	0.0	50.0	0.0	16.7	1
+Total	100.0	100.0	100.0	100.0	6
+
+Number	1	2	3	6	
+
+PCO
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive orale (PCO) 					
+0	0.0	0.0	100.0	12.5	1
+1	100.0	100.0	0.0	87.5	7
+Total	100.0	100.0	100.0	100.0	8
+
+Contraintes budgétaires - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Options d'achat limitées - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	0.0	87.5	7
+1	0.0	0.0	100.0	12.5	1
+Total	100.0	100.0	100.0	100.0	8
+
+Problèmes d'assurance qualité - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Autre (préciser)-Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Number	2	5	1	8	
+
+Pillule progesterone
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Pilules à base de progestérone 				
+0	33.3	0.0	11.1	1
+1	66.7	100.0	88.9	8
+Total	100.0	100.0	100.0	9
+
+Contraintes budgétaires - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Options d'achat limitées - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Problèmes d'assurance qualité - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Autre (préciser)-Pilules à base de progestérone 				
+0	66.7	100.0	88.9	8
+1	33.3	0.0	11.1	1
+Total	100.0	100.0	100.0	9
+
+Number	3	6	9	
+
+DUI
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - DUI				
+0	16.7	10.0	12.5	2
+1	83.3	90.0	87.5	14
+Total	100.0	100.0	100.0	16
+
+Contraintes budgétaires - DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Options d'achat limitées - DUI				
+0	83.3	90.0	87.5	14
+1	16.7	10.0	12.5	2
+Total	100.0	100.0	100.0	16
+
+Problèmes d'assurance qualité - DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Autre (préciser)-DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Number	6	10	16	
+
+Anneaux tubaire
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Anneaux tubaires					
+0	50.0	0.0	0.0	12.5	1
+1	50.0	100.0	100.0	87.5	7
+Total	100.0	100.0	100.0	100.0	8
+
+Contraintes budgétaires - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Options d'achat limitées - Anneaux tubaires					
+0	50.0	100.0	100.0	87.5	7
+1	50.0	0.0	0.0	12.5	1
+Total	100.0	100.0	100.0	100.0	8
+
+Problèmes d'assurance qualité - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Autre (préciser)-Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Number	2	4	2	8	
+
+Condom Masculin
+	cs	eps	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Préservatif masculin				
+0	25.0	50.0	30.0	3
+1	75.0	50.0	70.0	7
+Total	100.0	100.0	100.0	10
+
+Contraintes budgétaires- Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Options d'achat limitées - Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Problèmes d'assurance qualité - Préservatif masculin				
+0	100.0	100.0	100.0	10
+Total	100.0	100.0	100.0	10
+
+Autre (préciser)-Préservatif masculin				
+0	75.0	50.0	70.0	7
+1	25.0	50.0	30.0	3
+Total	100.0	100.0	100.0	10
+
+Number	8	2	10	
+
+Condom Feminin
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Préservatif feminin					
+0	100.0	27.8	50.0	33.3	7
+1	0.0	72.2	50.0	66.7	14
+Total	100.0	100.0	100.0	100.0	21
+
+Contraintes budgétaires- Préservatif feminin					
+0	100.0	94.4	100.0	95.2	20
+1	0.0	5.6	0.0	4.8	1
+Total	100.0	100.0	100.0	100.0	21
+
+Options d'achat limitées - Préservatif feminin					
+0	0.0	77.8	50.0	71.4	15
+1	100.0	22.2	50.0	28.6	6
+Total	100.0	100.0	100.0	100.0	21
+
+Problèmes d'assurance qualité - Préservatif feminin					
+0	100.0	100.0	100.0	100.0	21
+Total	100.0	100.0	100.0	100.0	21
+
+Autre (préciser)-Préservatif masculin					
+0	100.0	88.9	50.0	85.7	18
+1	0.0	11.1	50.0	14.3	3
+Total	100.0	100.0	100.0	100.0	21
+
+Number	1	18	2	21	
+
+PCU
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive d'urgence 					
+0	0.0	22.2	100.0	33.3	4
+1	100.0	77.8	0.0	66.7	8
+Total	100.0	100.0	100.0	100.0	12
+
+Contraintes budgétaires- Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	12
+Total	100.0	100.0	100.0	100.0	12
+
+Options d'achat limitées - Pilule contraceptive d'urgence 					
+0	100.0	88.9	50.0	83.3	10
+1	0.0	11.1	50.0	16.7	2
+Total	100.0	100.0	100.0	100.0	12
+
+Problèmes d'assurance qualité - Pilule contraceptive d'urgence 					
+0	100.0	100.0	100.0	100.0	12
+Total	100.0	100.0	100.0	100.0	12
+
+Autre (préciser)-Pilule contraceptive d'urgence					
+0	100.0	88.9	50.0	83.3	10
+1	0.0	11.1	50.0	16.7	2
+Total	100.0	100.0	100.0	100.0	12
+
+Number	1	9	2	12	
+
+Injectable depo
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable-Depo Provera 					
+0	100.0	0.0	0.0	50.0	2
+1	0.0	100.0	100.0	50.0	2
+Total	100.0	100.0	100.0	100.0	4
+
+Contraintes budgétaires - Injectable-Depo Provera 					
+0	100.0	100.0	100.0	100.0	4
+Total	100.0	100.0	100.0	100.0	4
+
+Options d'achat limitées - Injectable-Depo Provera					
+0	50.0	100.0	100.0	75.0	3
+1	50.0	0.0	0.0	25.0	1
+Total	100.0	100.0	100.0	100.0	4
+
+Problèmes d'assurance qualité - Injectable-Depo Provera					
+0	100.0	100.0	100.0	100.0	4
+Total	100.0	100.0	100.0	100.0	4
+
+Autre (préciser)- Injectable-Depo Provera					
+0	50.0	100.0	100.0	75.0	3
+1	50.0	0.0	0.0	25.0	1
+Total	100.0	100.0	100.0	100.0	4
+
+Number	2	1	1	4	
+
+Injectable sayana
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Injectable- Sayana Press					
+0	66.7	33.3	100.0	57.1	4
+1	33.3	66.7	0.0	42.9	3
+Total	100.0	100.0	100.0	100.0	7
+
+Contraintes budgétaires - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	7
+Total	100.0	100.0	100.0	100.0	7
+
+Options d'achat limitées - Injectable- Sayana Press					
+0	66.7	100.0	100.0	85.7	6
+1	33.3	0.0	0.0	14.3	1
+Total	100.0	100.0	100.0	100.0	7
+
+Problèmes d'assurance qualité - Injectable- Sayana Press					
+0	100.0	100.0	100.0	100.0	7
+Total	100.0	100.0	100.0	100.0	7
+
+Autre (préciser)- Injectable-Sayana Press					
+0	66.7	66.7	0.0	57.1	4
+1	33.3	33.3	100.0	42.9	3
+Total	100.0	100.0	100.0	100.0	7
+
+Number	3	3	1	7	
+
+Implant
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Implants					
+0	100.0	50.0	0.0	33.3	2
+1	0.0	50.0	100.0	66.7	4
+Total	100.0	100.0	100.0	100.0	6
+
+Contraintes budgétaires - Implants					
+0	100.0	100.0	100.0	100.0	6
+Total	100.0	100.0	100.0	100.0	6
+
+Options d'achat limitées - Implants					
+0	0.0	100.0	100.0	83.3	5
+1	100.0	0.0	0.0	16.7	1
+Total	100.0	100.0	100.0	100.0	6
+
+Problèmes d'assurance qualité - Implants					
+0	100.0	100.0	100.0	100.0	6
+Total	100.0	100.0	100.0	100.0	6
+
+Autre (préciser)-Implants					
+0	100.0	50.0	100.0	83.3	5
+1	0.0	50.0	0.0	16.7	1
+Total	100.0	100.0	100.0	100.0	6
+
+Number	1	2	3	6	
+
+PCO
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Pilule contraceptive orale (PCO) 					
+0	0.0	0.0	100.0	12.5	1
+1	100.0	100.0	0.0	87.5	7
+Total	100.0	100.0	100.0	100.0	8
+
+Contraintes budgétaires - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Options d'achat limitées - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	0.0	87.5	7
+1	0.0	0.0	100.0	12.5	1
+Total	100.0	100.0	100.0	100.0	8
+
+Problèmes d'assurance qualité - Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Autre (préciser)-Pilule contraceptive orale (PCO)					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Number	2	5	1	8	
+
+Pillule progesterone
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - Pilules à base de progestérone 				
+0	33.3	0.0	11.1	1
+1	66.7	100.0	88.9	8
+Total	100.0	100.0	100.0	9
+
+Contraintes budgétaires - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Options d'achat limitées - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Problèmes d'assurance qualité - Pilules à base de progestérone 				
+0	100.0	100.0	100.0	9
+Total	100.0	100.0	100.0	9
+
+Autre (préciser)-Pilules à base de progestérone 				
+0	66.7	100.0	88.9	8
+1	33.3	0.0	11.1	1
+Total	100.0	100.0	100.0	9
+
+Number	3	6	9	
+
+DUI
+	clinic	cs	Total	Number
+	%	%	%	
+Pas d'approvisionnement reçu - DUI				
+0	16.7	10.0	12.5	2
+1	83.3	90.0	87.5	14
+Total	100.0	100.0	100.0	16
+
+Contraintes budgétaires - DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Options d'achat limitées - DUI				
+0	83.3	90.0	87.5	14
+1	16.7	10.0	12.5	2
+Total	100.0	100.0	100.0	16
+
+Problèmes d'assurance qualité - DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Autre (préciser)-DUI				
+0	100.0	100.0	100.0	16
+Total	100.0	100.0	100.0	16
+
+Number	6	10	16	
+
+Anneaux tubaire
+	clinic	cs	eps	Total	Number
+	%	%	%	%	
+Pas d'approvisionnement reçu - Anneaux tubaires					
+0	50.0	0.0	0.0	12.5	1
+1	50.0	100.0	100.0	87.5	7
+Total	100.0	100.0	100.0	100.0	8
+
+Contraintes budgétaires - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Options d'achat limitées - Anneaux tubaires					
+0	50.0	100.0	100.0	87.5	7
+1	50.0	0.0	0.0	12.5	1
+Total	100.0	100.0	100.0	100.0	8
+
+Problèmes d'assurance qualité - Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Autre (préciser)-Anneaux tubaires					
+0	100.0	100.0	100.0	100.0	8
+Total	100.0	100.0	100.0	100.0	8
+
+Number	2	4	2	8	
+
